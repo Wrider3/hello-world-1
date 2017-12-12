@@ -1,0 +1,50 @@
+h1 {
+	font-family: helvetica;
+}
+
+#fatboi {
+	/* margin: 50px; */
+background-color: #8a9fb0;	
+}
+
+#big_title {
+	font-size: 40px;
+	color: white;
+}
+
+p {
+	font-family: myriad-pro;
+}
+
+#banner {
+	width: 100%;
+	height: auto;
+	padding-left: -50px;
+	padding-right: -50px;
+}
+
+body {
+	background-color: #6b8eac;
+	margin: 0px;
+}
+
+main {
+	padding: 20px 80px;
+}
+
+.floatleft {
+	float: left;
+	margin-right: 40px;
+}
+
+.item {
+	display: block;
+	clear: both;
+	width: 100%;
+	min-height: 450px;
+	margin-top: 100px;
+}
+
+.item img {
+	margin-top: -100px;
+}
