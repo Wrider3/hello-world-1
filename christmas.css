@@ -48,3 +48,7 @@ main {
 .item img {
 	margin-top: -100px;
 }
+
+p {
+  font-family: arial;	
+}
