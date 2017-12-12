@@ -4,7 +4,7 @@ h1 {
 
 #fatboi {
 	/* margin: 50px; */
-background-color: #8a9fb0;	
+    background-color: #8a9fb0;	
 }
 
 #big_title {
@@ -41,10 +41,23 @@ main {
 	display: block;
 	clear: both;
 	width: 100%;
-	min-height: 450px;
-	margin-top: 100px;
+	min-height: 450px; 
+	margin-top: 100px; 
 }
 
 .item img {
 	margin-top: -100px;
+}
+
+nav {
+	text-align: center;
+	background: black;
+}
+
+nav img{
+	margin: 40px;
+}
+
+.screw {
+	padding-top: 100px;
 }
